@@ -1,0 +1,18 @@
+body {
+    font-family: "Fondamento", sans-serif;
+    margin-left: 20%;
+    background-color: #ACCBE1;
+}
+
+img {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+table, td {
+    padding: 5px;
+
+    border-style: groove;
+}
